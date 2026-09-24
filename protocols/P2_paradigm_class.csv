@@ -1,0 +1,62 @@
+effect,frame,paradigm_class,bare_eligible,n_conditions,n_seeds,n_requests,coder_votes,coder_agreement,reason
+Asch1946_warm_cold,lab_experiment,trait_inference,True,2,5,60,trait_inference|trait_inference,True,"trait word swap, impression formation"
+Bargh2012_warmth,lab_experiment,questionnaire,True,0,5,60,questionnaire|questionnaire,True,"correlational self-report, no manipulation"
+Banerjee2012_brightness,lab_experiment,introspective_recall,False,2,0,0,social_priming|introspective_recall|introspective_recall,False,requires recalling own ethical/unethical deed
+Wakslak2006_construal,lab_experiment,jdm_bias,True,2,5,60,questionnaire|jdm_bias|jdm_bias,False,probability of future task shifts construal level
+Klink2000_soundsymbolism,lab_experiment,linguistic_intuition,True,0,5,60,linguistic_intuition|linguistic_intuition,True,"sound symbolism, no manipulation"
+Valdesolo2007_hypocrisy,lab_experiment,moral_judgment,True,4,5,60,moral_judgment|moral_judgment,True,fairness/hypocrisy vignette judgment
+Cooney2016_fairness,lab_experiment,moral_judgment,True,2,5,60,moral_judgment|moral_judgment,True,fairness procedure judgment
+VanBoven2007_anticipation,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,anticipation/valuation judgment
+Slepian2012_secrets,lab_experiment,introspective_recall,False,2,0,0,introspective_recall|introspective_recall|introspective_recall,True,requires recalling own big/small secret
+Tamir2012_selfdisclosure,lab_experiment,incentive,True,0,5,60,introspective_recall|introspective_recall|incentive,False,real payoff choice between self/other judgment
+Husnu2010_imagined_contact,lab_experiment,social_imagery,True,2,5,60,social_imagery|social_imagery,True,imagined interaction manipulation
+Tversky1973_availability_letters,lab_experiment,jdm_bias,True,0,5,60,jdm_bias|jdm_bias,True,availability heuristic judgment
+Eyal2008_moral_distance,lab_experiment,moral_judgment,True,2,5,60,moral_judgment|moral_judgment,True,"vignette temporal framing, moral judgment"
+Rottenstreich2001_affective_lottery,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,probability x outcome valuation
+Oppenheimer2009_retrospective_gambler,lab_experiment,jdm_bias,True,3,5,60,jdm_bias|jdm_bias,True,probability judgment task
+Knobe2003_side_effect,lab_experiment,moral_judgment,True,2,5,60,moral_judgment|moral_judgment,True,Vignette content manipulates intentionality/blame directly
+Miyamoto2002_correspondence_bias,lab_experiment,trait_inference,True,2,5,60,trait_inference|trait_inference,True,Inferring writer's true attitude from essay
+Genschow2017_free_will_attribution,lab_experiment,jdm_bias,True,2,5,60,social_priming|moral_judgment|jdm_bias,False,"reading passage shifts attribution bias, no persona"
+Chao2017_thankyou_gift,lab_experiment,incentive,True,3,5,60,social_judgment|incentive|incentive,False,gift salience affects donation behavior/rate
+Zarkadi2013_visual_contrast,lab_experiment,social_priming,False,3,0,0,jdm_bias|jdm_bias|social_priming,False,incidental background pattern shifts unrelated rating
+Giessner2007_vertical_power,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,incidental vertical line length shifts power judgment
+Bauer2012_consumer_cues,lab_experiment,social_judgment,True,2,5,60,social_priming|social_priming|social_judgment,False,semantic label (consumer/individual) directly shapes social evaluation
+Kay2014_structure_goal_pursuit,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,unrelated order/randomness text shifts goal willingness
+Caruso2013_money_priming,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,incidental money image shifts system-justification scores
+Galinsky2006_power_perspective,lab_experiment,introspective_recall,False,2,0,0,social_priming|introspective_recall|introspective_recall,False,Manipulation is autobiographical power-episode recall
+Jostmann2009_weight_importance,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,"Incidental clipboard weight, unrelated to DV"
+Fetherstonhaugh1997_psychophysical_numbing,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,Numeric valuation under uncertainty
+DeNeve1998_swb_neuroticism,survey,questionnaire,True,0,5,60,questionnaire|questionnaire,True,"Trait self-report correlation, no manipulation"
+McCullough2002_gratitude_agreeableness,survey,questionnaire,True,0,5,60,questionnaire|questionnaire,True,Trait self-report intercorrelation
+Paunonen2003_attractiveness_extraversion,survey,questionnaire,True,0,5,60,questionnaire|questionnaire,True,Trait-criterion self-report correlation
+Shnabel2008_needs_reconciliation,lab_experiment,introspective_recall,False,4,0,0,moral_judgment|introspective_recall|introspective_recall,False,Requires recalling own wrongdoing/victimhood episode
+John2016_hiding_information,lab_experiment,trait_inference,True,2,5,60,trait_inference|trait_inference,True,judging applicant from reveal/hide answers
+Kozak2006_action_identification,lab_experiment,trait_inference,True,0,5,60,trait_inference|trait_inference,True,no conditions to contradict prior label
+Mellers2001_conjunction_frequency,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,"conjunction fallacy, probability judgment"
+Gervais2012_analytic_priming,lab_experiment,social_priming,False,2,0,0,jdm_bias|social_priming|social_priming,False,Incidental sculpture image primes analytic mindset unconsciously
+Peters2006_numeracy_framing,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,gain/loss framing manipulation
+Glikson2017_smiley_competence,lab_experiment,trait_inference,True,2,5,60,trait_inference|trait_inference,True,impression of sender from smiley text
+Finucane2000_affect_heuristic,lab_experiment,jdm_bias,True,0,5,60,jdm_bias|jdm_bias,True,risk-benefit valuation heuristic
+Park2019_scarcity_price_quality,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,scarcity cue affects quality valuation
+Thoresen2003_commitment_negative_affect,lab_experiment,questionnaire,True,0,5,60,questionnaire|questionnaire,True,correlational trait-scale meta-analysis
+CarterGilovich2012_experiential_self,lab_experiment,introspective_recall,False,2,0,0,jdm_bias|introspective_recall|introspective_recall,False,Manipulation is recalling own past purchase
+Ackerman2010_haptic_weight,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,"Incidental clipboard weight cue, unrelated judgment"
+BlackBarnes2015_transportation,lab_experiment,social_imagery,True,2,5,60,social_imagery|social_imagery,True,imagining fictional narrative scenario
+Huang2019_anthropomorphism_holistic,lab_experiment,social_judgment,True,2,5,60,social_judgment|social_judgment,True,evaluating anthropomorphized product
+Kupor2015_god_risk,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,Scrambled-sentence implicit God concept priming
+Weinstein1984_comparative_optimism,lab_experiment,jdm_bias,True,0,5,60,jdm_bias|jdm_bias,True,comparative risk judgment under uncertainty
+Hoorens2015_more_less_asymmetry,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,comparative wording framing effect on agreement
+Huang2014_cleanliness_effort,lab_experiment,social_priming,False,4,0,0,social_priming|social_priming|social_priming,True,"Scrambled-sentence cleanliness prime, unrelated moral DV"
+FathKay2018_hierarchy_corruption,lab_experiment,social_judgment,True,2,5,60,social_judgment|social_judgment,True,"semantic vignette content, evaluating organization"
+Blank2022_double_misinformation,lab_experiment,verifiable,True,0,5,60,verifiable|verifiable,True,eyewitness memory has objectively correct answer
+Correll2007_motherhood_penalty,lab_experiment,social_judgment,True,2,5,60,social_judgment|social_judgment,True,"semantic vignette content, evaluating job candidate"
+Helzer2011_cleansing_conservatism,public_intercept,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,Incidental hand-sanitizer cue shifts unrelated attitude
+DogerliogluDemir2014_incidental_anchor,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,"numeric anchor biasing valuation, classic anchoring"
+WilliamsBargh2008_distance_priming,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,Spatial-distance task primes unrelated attachment judgment
+Scopelliti2015_bragging_emotion,lab_experiment,introspective_recall,False,2,0,0,introspective_recall|introspective_recall|introspective_recall,True,Requires recalling own self-promotion conversation episode
+Reinhard2013_unconscious_lie_detection,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,deliberation mode affecting judgment under uncertainty
+Stevenson2000_web_brand_attitude,lab_experiment,social_judgment,True,2,5,60,social_judgment|social_judgment,True,background is direct object of evaluation
+Cao2018_bayesian_pilot,lab_experiment,jdm_bias,True,0,5,60,jdm_bias|jdm_bias,True,probability judgment based on stereotype prior
+KimMarkus1999_uniqueness_preference,lab_experiment,jdm_bias,True,2,5,60,jdm_bias|jdm_bias,True,preference/valuation choice task
+Elliot2010_red_attraction,lab_experiment,social_priming,False,2,0,0,social_priming|social_priming|social_priming,True,Incidental background colour cue shifts unrelated attraction rating
+Aryani2020_word_arousal,lab_experiment,linguistic_intuition,True,0,5,60,linguistic_intuition|linguistic_intuition,True,affective sound rating of words

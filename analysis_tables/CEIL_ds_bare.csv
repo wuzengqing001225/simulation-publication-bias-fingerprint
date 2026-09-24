@@ -1,0 +1,15 @@
+effect,model,r_bare,n_scored,parse_rate
+Aryani2020_word_arousal,deepseek-v4-flash,0.9961332359449997,30,1.0
+Asch1946_warm_cold,deepseek-v4-flash,0.8332498142407049,60,1.0
+BlackBarnes2015_transportation,deepseek-v4-flash,0.9728850685657786,60,1.0
+Cao2018_bayesian_pilot,deepseek-v4-flash,0.5772687455702996,30,1.0
+FathKay2018_hierarchy_corruption,deepseek-v4-flash,0.8928889252481353,60,1.0
+Hoorens2015_more_less_asymmetry,deepseek-v4-flash,0.6492589668324025,60,1.0
+John2016_hiding_information,deepseek-v4-flash,0.6711324049628634,60,1.0
+Klink2000_soundsymbolism,deepseek-v4-flash,0.9769882798644124,30,1.0
+Knobe2003_side_effect,deepseek-v4-flash,0.9942071865371896,60,1.0
+Miyamoto2002_correspondence_bias,deepseek-v4-flash,0.5918428832143188,60,1.0
+Rottenstreich2001_affective_lottery,deepseek-v4-flash,-0.004176138974061114,60,1.0
+Tamir2012_selfdisclosure,deepseek-v4-flash,-0.7453678795689029,30,1.0
+Valdesolo2007_hypocrisy,deepseek-v4-flash,0.15815423362359884,120,1.0
+Weinstein1984_comparative_optimism,deepseek-v4-flash,0.7932440447386545,30,1.0

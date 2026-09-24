@@ -1,0 +1,6 @@
+analysis,param,mean,hdi_2.5,hdi_97.5
+nobare_same_sample_71units,b_rep,1.456,0.669,2.193
+nobare_same_sample_71units,b_pub,0.7,-0.343,1.7
+nobare_same_sample_71units,b_model,-0.099,-0.393,0.224
+nobare_same_sample_71units,sd_eff,0.828,0.559,1.092
+nobare_same_sample_71units,sigma,0.638,0.484,0.819

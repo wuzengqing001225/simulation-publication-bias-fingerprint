@@ -1,0 +1,14 @@
+effect,model,em_refusal_rate,n_cells,n_cells_refused,n_cells_clean,r_refused,r_clean,n_r_missing_refused,n_r_missing_clean,r_othermodel,r_refused_abs,r_clean_abs,r_other_abs,delta_r,delta_abs
+Ackerman2010_haptic_weight,sonnet45,0.625,4,4,0,,,4,0,0.0,,,0.0,,
+Banerjee2012_brightness,sonnet45,0.3729,8,7,1,0.3672,0.2513,3,0,0.6313,0.3672,0.2513,0.6313,0.116,0.116
+Correll2007_motherhood_penalty,sonnet45,0.3458,4,3,1,-0.1621,-0.2018,0,0,-0.0535,0.2974,0.2018,0.2352,0.0397,0.0956
+DogerliogluDemir2014_incidental_anchor,sonnet45,0.1938,4,2,2,-0.1903,-0.0258,0,0,0.2861,0.1903,0.069,0.2861,-0.1644,0.1212
+FathKay2018_hierarchy_corruption,sonnet45,0.3,4,2,2,0.9746,0.9924,1,0,0.9853,0.9746,0.9924,0.9853,-0.0178,-0.0178
+Gervais2012_analytic_priming,sonnet45,0.4079,4,2,2,,0.1213,2,0,0.2619,,0.1213,0.3322,,
+Huang2014_cleanliness_effort,sonnet45,0.3125,4,2,2,0.28,0.1548,1,0,-0.1172,0.28,0.2635,0.1863,0.1253,0.0165
+John2016_hiding_information,sonnet45,0.1625,4,3,1,0.9985,0.8445,0,0,0.852,0.9985,0.8445,0.852,0.1539,0.1539
+Kay2014_structure_goal_pursuit,sonnet45,0.2417,4,2,2,0.1477,0.5251,1,0,0.2815,0.1477,0.5251,0.2815,-0.3774,-0.3774
+Klink2000_soundsymbolism,sonnet45,0.1542,8,2,6,0.9997,0.9912,1,0,0.5074,0.9997,0.9912,0.9804,0.0085,0.0085
+Kupor2015_god_risk,sonnet45,0.5,4,2,2,,0.0873,2,0,0.1331,,0.1294,0.2629,,
+Slepian2012_secrets,sonnet45,0.2156,8,4,4,-0.185,0.3615,3,0,0.3546,0.185,0.4691,0.3546,-0.5466,-0.2841
+Wakslak2006_construal,sonnet45,0.3156,8,6,2,-0.0011,-0.6488,3,0,-0.0648,0.2901,0.6488,0.2837,0.6478,-0.3587

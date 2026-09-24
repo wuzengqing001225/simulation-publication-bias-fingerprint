@@ -1,0 +1,15 @@
+effect,model,r_bare,n_scored,parse_rate
+Aryani2020_word_arousal,gpt-5.6-terra,0.9963004121496318,30,1.0
+Asch1946_warm_cold,gpt-5.6-terra,0.9247355785449519,60,1.0
+BlackBarnes2015_transportation,gpt-5.6-terra,0.9735261645099608,60,1.0
+Cao2018_bayesian_pilot,gpt-5.6-terra,0.7952607664633661,30,1.0
+FathKay2018_hierarchy_corruption,gpt-5.6-terra,0.7709560370156229,60,1.0
+Hoorens2015_more_less_asymmetry,gpt-5.6-terra,0.4072360390539654,60,1.0
+John2016_hiding_information,gpt-5.6-terra,-0.09641194942743765,26,0.43333333333333335
+Klink2000_soundsymbolism,gpt-5.6-terra,0.788724045764165,30,1.0
+Knobe2003_side_effect,gpt-5.6-terra,0.7177795993036673,60,1.0
+Miyamoto2002_correspondence_bias,gpt-5.6-terra,0.3720364745708927,60,1.0
+Rottenstreich2001_affective_lottery,gpt-5.6-terra,-0.21213203435596437,60,1.0
+Tamir2012_selfdisclosure,gpt-5.6-terra,-0.7845624201619531,30,1.0
+Valdesolo2007_hypocrisy,gpt-5.6-terra,0.20789263233903052,120,1.0
+Weinstein1984_comparative_optimism,gpt-5.6-terra,0.544583086713788,30,1.0

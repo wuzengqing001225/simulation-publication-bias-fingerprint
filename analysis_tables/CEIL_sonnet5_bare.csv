@@ -1,0 +1,15 @@
+effect,model,r_bare,n_scored,parse_rate
+Aryani2020_word_arousal,sonnet5,0.9991322299058245,30,1.0
+Asch1946_warm_cold,sonnet5,0.9871083842440581,60,1.0
+BlackBarnes2015_transportation,sonnet5,0.9687767782026094,60,1.0
+Cao2018_bayesian_pilot,sonnet5,0.7431153778362664,30,1.0
+FathKay2018_hierarchy_corruption,sonnet5,0.918862979766973,60,1.0
+Hoorens2015_more_less_asymmetry,sonnet5,0.7371969738653665,60,1.0
+John2016_hiding_information,sonnet5,-0.5151695912670409,60,1.0
+Klink2000_soundsymbolism,sonnet5,0.7570078800566564,30,1.0
+Knobe2003_side_effect,sonnet5,0.9625771377034852,60,1.0
+Miyamoto2002_correspondence_bias,sonnet5,0.3333333333333334,60,1.0
+Rottenstreich2001_affective_lottery,sonnet5,0.8908193094640212,60,1.0
+Tamir2012_selfdisclosure,sonnet5,-0.9042401245859181,30,1.0
+Valdesolo2007_hypocrisy,sonnet5,0.8800294873716596,120,1.0
+Weinstein1984_comparative_optimism,sonnet5,0.9920910173066895,25,0.8333333333333334

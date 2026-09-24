@@ -1,0 +1,50 @@
+{
+ "cell_means_obs": {
+  "fame0_pol0": -0.0407,
+  "fame0_pol1": 0.0438,
+  "fame1_pol0": 0.2041,
+  "fame1_pol1": 0.1398
+ },
+ "cell_n_obs": {
+  "fame0_pol0": 20,
+  "fame0_pol1": 14,
+  "fame1_pol0": 10,
+  "fame1_pol1": 16
+ },
+ "fame_equal_weight": 0.1704,
+ "political_equal_weight": 0.0101,
+ "pair_regression": {
+  "n_pairs": 33,
+  "fame": {
+   "coef": 0.1559,
+   "se": 0.0535,
+   "p": 0.0067
+  },
+  "political": {
+   "coef": 0.0055,
+   "se": 0.0534,
+   "p": 0.9186
+  }
+ },
+ "fame_mw_onesided_p": 0.0044,
+ "new_cells": {
+  "famous_nonpol_mean": 0.1889,
+  "n_famous_nonpol": 6,
+  "undisc_pol_mean": 0.027,
+  "n_undisc_pol": 8,
+  "mw_onesided_p": 0.0709
+ },
+ "winners_curse": {
+  "se_r": 0.0221,
+  "matched_bias": 0.0001,
+  "worst_case_bias": 0.0421
+ },
+ "computability": {
+  "new_pairs_total": 16,
+  "new_pairs_computable": 14,
+  "uncomputable_pairs": [
+   "P_income|P_finliteracy",
+   "P_numeracy|P_finliteracy"
+  ]
+ }
+}

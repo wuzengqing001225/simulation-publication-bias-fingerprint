@@ -1,0 +1,15 @@
+effect,model,r_bare,n_ok,ci_lo,ci_hi,parse_rate,n_parsed,n_attempted,statistic,claim_sign,n_units_desc,flag
+Finucane2000_affect_heuristic,sonnet45,-0.728538,5,-0.736007,-0.713067,1.0,30,30,corr_within,-1,seed-level units (5 seeds x n=6),
+Finucane2000_affect_heuristic,sonnet5,-0.661294,5,-0.690481,-0.620093,1.0,30,30,corr_within,-1,seed-level units (5 seeds x n=6),
+Glikson2017_smiley_competence,sonnet45,-0.622543,10,-0.980196,-0.195778,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+Glikson2017_smiley_competence,sonnet5,-0.654654,10,-0.917663,-0.267261,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+Hoorens2015_more_less_asymmetry,sonnet45,0.495188,10,0.0,0.809524,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+Hoorens2015_more_less_asymmetry,sonnet5,0.966558,10,0.956622,0.996683,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+Huang2019_anthropomorphism_holistic,sonnet45,0.0,10,0.0,0.0,1.0,30,30,phi,1,seed-level units (5 seeds x n=6),
+Huang2019_anthropomorphism_holistic,sonnet5,0.0,10,0.0,0.0,1.0,30,30,phi,1,seed-level units (5 seeds x n=6),
+John2016_hiding_information,sonnet45,-0.826908,10,-0.985464,-0.714549,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+John2016_hiding_information,sonnet5,-0.907263,10,-0.993127,-0.800036,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+KimMarkus1999_uniqueness_preference,sonnet45,0.333333,10,0.0,0.654654,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+KimMarkus1999_uniqueness_preference,sonnet5,-0.218218,10,-0.596285,0.5,1.0,30,30,two_group,1,seed-level units (5 seeds x n=6),
+Kozak2006_action_identification,sonnet45,,5,,,0.9667,29,30,corr_between,1,seed-level units (5 seeds x n=6),no_variance
+Kozak2006_action_identification,sonnet5,,5,,,1.0,30,30,corr_between,1,seed-level units (5 seeds x n=6),no_variance

@@ -1,0 +1,19 @@
+family,bare_thr,subset,n_units,n_effects,sign_agree,k
+Claude,0.1,bare≈0 & rep real,17,12,0.5882352941176471,10
+Claude,0.1,bare≠0 & rep real,30,19,0.8,24
+Claude,0.1,all rep real,47,25,0.723404255319149,34
+Claude,0.2,bare≈0 & rep real,19,13,0.5789473684210527,11
+Claude,0.2,bare≠0 & rep real,28,18,0.8214285714285714,23
+Claude,0.2,all rep real,47,25,0.723404255319149,34
+GPT,0.1,bare≈0 & rep real,5,5,0.6,3
+GPT,0.1,bare≠0 & rep real,19,19,0.8421052631578947,16
+GPT,0.1,all rep real,24,24,0.7916666666666666,19
+GPT,0.2,bare≈0 & rep real,5,5,0.6,3
+GPT,0.2,bare≠0 & rep real,19,19,0.8421052631578947,16
+GPT,0.2,all rep real,24,24,0.7916666666666666,19
+DeepSeek,0.1,bare≈0 & rep real,7,7,0.42857142857142855,3
+DeepSeek,0.1,bare≠0 & rep real,19,19,1.0,19
+DeepSeek,0.1,all rep real,26,26,0.8461538461538461,22
+DeepSeek,0.2,bare≈0 & rep real,10,10,0.6,6
+DeepSeek,0.2,bare≠0 & rep real,16,16,1.0,16
+DeepSeek,0.2,all rep real,26,26,0.8461538461538461,22

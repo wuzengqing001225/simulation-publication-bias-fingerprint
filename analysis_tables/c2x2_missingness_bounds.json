@@ -1,0 +1,57 @@
+{
+ "cells": [
+  {
+   "cell": "famous-nonpol",
+   "n_values": 18,
+   "n_computable": 10
+  },
+  {
+   "cell": "famous-pol",
+   "n_values": 18,
+   "n_computable": 16
+  },
+  {
+   "cell": "undiscussed-nonpol",
+   "n_values": 20,
+   "n_computable": 20
+  },
+  {
+   "cell": "undiscussed-pol",
+   "n_values": 16,
+   "n_computable": 14
+  }
+ ],
+ "min_observed_excess": -0.3904819172765938,
+ "baseline": {
+  "n_pairs": 33,
+  "fame": 0.15587049836108993,
+  "fame_se": 0.053548884606653226,
+  "fame_p": 0.006736654754653968,
+  "pol": 0.00549755920926968,
+  "pol_p": 0.9186139157528873
+ },
+ "worst_case_min": {
+  "n_pairs": 36,
+  "fame": 0.015126680785898522,
+  "fame_se": 0.07019329091748905,
+  "fame_p": 0.8307036326329299,
+  "pol": 0.10461229867303232,
+  "pol_p": 0.1462336226064997
+ },
+ "missing_zero": {
+  "n_pairs": 36,
+  "fame": 0.12189240097589835,
+  "fame_se": 0.048161407606073604,
+  "fame_p": 0.016325757441806643,
+  "pol": 0.0447482896856737,
+  "pol_p": 0.36030085602180856
+ },
+ "both_models_only": {
+  "n_pairs": 27,
+  "fame": 0.17970326425746744,
+  "fame_se": 0.06063751448763872,
+  "fame_p": 0.0067657699652817005,
+  "pol": 0.04004058658802458,
+  "pol_p": 0.5083218926345653
+ }
+}

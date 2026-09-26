@@ -1,0 +1,228 @@
+{
+ "P_political_liberalism": [
+  "Where would you place your political views in general?",
+  "Where would you place your views on social issues such as abortion and LGBT rights?",
+  "Where would you place your views on economic issues such as taxes and government spending?"
+ ],
+ "W_policy_support_liberal": [
+  "How much do you support or oppose raising the federal minimum wage to $15 an hour?",
+  "How much do you support or oppose a government-funded health insurance plan that covers every resident?",
+  "How much do you support or oppose stricter federal limits on carbon emissions from power plants?",
+  "How much do you support or oppose raising income taxes on households earning more than $400,000 a year?",
+  "How much do you support or oppose creating a path to citizenship for undocumented immigrants already in the country?",
+  "How much do you support or oppose requiring background checks on all gun purchases, including private sales?",
+  "How much do you support or oppose federal funding to make public preschool free for all four-year-olds?",
+  "How much do you support or oppose increasing federal spending on wind and solar energy development?",
+  "How much do you support or oppose increasing the federal military budget?",
+  "How much do you support or oppose cutting the federal corporate income tax rate?"
+ ],
+ "W_perceived_public_support_lib": [
+  "Out of every 100 American adults, how many do you think support raising the federal minimum wage to $15 an hour? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support a government-funded health insurance plan that covers every resident? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support stricter federal limits on carbon emissions from power plants? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support raising income taxes on households earning more than $400,000 a year? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support creating a path to citizenship for undocumented immigrants already in the country? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support requiring background checks on all gun purchases, including private sales? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support federal funding to make public preschool free for all four-year-olds? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support increasing federal spending on wind and solar energy development? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support increasing the federal military budget? Answer with a number from 0 to 100.",
+  "Out of every 100 American adults, how many do you think support cutting the federal corporate income tax rate? Answer with a number from 0 to 100."
+ ],
+ "P_openness": [
+  "I have a vivid imagination.",
+  "I have difficulty understanding abstract ideas.",
+  "I enjoy hearing new and different ideas.",
+  "I am not interested in abstract ideas."
+ ],
+ "P_conscientiousness": [
+  "I am always prepared.",
+  "I leave my belongings around.",
+  "I pay attention to details.",
+  "I shirk my duties."
+ ],
+ "P_agency": [
+  "I take charge of situations.",
+  "I wait for others to lead the way.",
+  "I try to lead others.",
+  "I take control of things."
+ ],
+ "W_benefit_perception": [
+  "How much benefit to society is there in riding a bicycle in city traffic?",
+  "How much benefit to society is there in drinking alcoholic beverages?",
+  "How much benefit to society is there in living near a chemical manufacturing plant?",
+  "How much benefit to society is there in agricultural pesticide use?"
+ ],
+ "W_risk_perception": [
+  "How much risk to people's health and safety is there in riding a bicycle in city traffic?",
+  "How much risk to people's health and safety is there in drinking alcoholic beverages?",
+  "How much risk to people's health and safety is there in living near a chemical manufacturing plant?",
+  "How much risk to people's health and safety is there in agricultural pesticide use?"
+ ],
+ "W_myside_ford": [
+  "The German government has determined that a sport-utility vehicle made by an American company, the Ford Explorer, has an accident rate roughly eight times higher than the average German vehicle, and is considering banning it from German roads. Should Germany be allowed to ban this American-made vehicle?"
+ ],
+ "P_numeracy": [
+  "Imagine a fair coin is flipped 1,000 times. Out of 1,000 flips, how many times would you expect the coin to come up heads?",
+  "In a lottery, the chance of winning a $10 prize is 1%. If 1,000 people each buy one ticket, how many of them would you expect to win a $10 prize?",
+  "In a sweepstakes, the chance of winning a car is 1 in 1,000. What percentage of sweepstakes tickets win a car?",
+  "If the chance of getting a disease is 20 out of 100, this is the same as a ___ percent chance of getting the disease."
+ ],
+ "P_crt2_score": [
+  "The mother of Sarah has four daughters: Spring, Summer, Autumn and who else?",
+  "How many cubic feet of dirt are in a hole that is 3 feet deep, 3 feet wide and 3 feet long?",
+  "If you are running a race and you pass the second-place runner, what place are you in?",
+  "A farmer had 15 sheep and all but 8 died. How many sheep are left alive?"
+ ],
+ "P_actual_total": [
+  "Which word is closest in meaning to ABSTRUSE?",
+  "Which word is closest in meaning to PLACATE?",
+  "Which word is most nearly OPPOSITE in meaning to PROLIFIC?",
+  "Which word is most nearly OPPOSITE in meaning to MITIGATE?",
+  "What number comes next in the series 2, 6, 12, 20, 30, ___ ?"
+ ],
+ "W_prob_maximizing_cards": [
+  "Trial 1 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 2 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 3 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 4 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 5 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 6 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 7 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 8 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 9 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?",
+  "Trial 10 of a card game. A shuffled deck contains 70 RED cards and 30 BLUE cards. One card will be drawn at random and you must guess its colour before it is revealed; you earn $1 for each correct guess. What is your guess for this trial?"
+ ],
+ "W_denom_neglect_avoid": [
+  "Two trays of jelly beans are offered. Tray A holds 10 beans, 1 of which is a winner. Tray B holds 100 beans, 9 of which are winners. You draw one bean without looking and win a prize only if it is a winner. Which tray do you draw from?",
+  "Two bowls of tickets are offered. Bowl A holds 200 tickets, 18 of which win. Bowl B holds 20 tickets, 2 of which win. You draw one ticket at random. Which bowl do you draw from?",
+  "Two boxes of marbles are offered. Box A holds 30 marbles, 3 of which win. Box B holds 300 marbles, 28 of which win. You draw one marble at random. Which box do you draw from?"
+ ],
+ "W_linda_conjunction_rating": [
+  "Linda is 31, single, outspoken and very bright. She majored in philosophy. As a student she was deeply concerned with issues of discrimination and social justice, and took part in anti-nuclear demonstrations. How likely is it that Linda is a bank teller AND is active in the feminist movement?",
+  "Robert is 45, quiet and methodical, and spends his weekends restoring antique clocks. He studied mechanical engineering. How likely is it that Robert is an insurance salesman AND a member of a local historical society?"
+ ],
+ "W_proportion_dom_1A": [
+  "A public health agency must fund one of two flood-safety programs. Program A would save 1,000 lives out of the 10,000 people at risk in one region. Program B would save 2,000 lives out of the 100,000 people at risk in a different region. How strongly do you favour funding Program A (the one that saves the larger share of those at risk)?",
+  "A relief fund must choose one of two airport-safety upgrades. Upgrade A would save 150 of the 200 passengers at risk on one route. Upgrade B would save 300 of the 3,000 passengers at risk across several routes. How strongly do you favour funding Upgrade A (the one that saves the larger share of those at risk)?"
+ ],
+ "W_purchase_intent": [
+  "How likely are you to buy a new pair of running shoes in the next three months?",
+  "How likely are you to buy a streaming video subscription in the next three months?",
+  "How likely are you to buy organic fresh produce in the next three months?",
+  "How likely are you to buy a name-brand smartphone in the next three months?",
+  "How likely are you to buy store-brand cereal in the next three months?",
+  "How likely are you to buy a household air purifier in the next three months?",
+  "How likely are you to buy an electric or hybrid car in the next three months?",
+  "How likely are you to buy bottled water in the next three months?",
+  "How likely are you to buy a fitness-tracking wearable in the next three months?",
+  "How likely are you to buy vitamins or dietary supplements in the next three months?",
+  "How likely are you to buy a meal-delivery service in the next three months?",
+  "How likely are you to buy second-hand clothing in the next three months?"
+ ],
+ "P_BES": [
+  "I feel a special connection to the brands I prefer.",
+  "The brands I use say something important about who I am.",
+  "I do not think of any brand as part of my identity.",
+  "Some of the brands in my life matter to me personally."
+ ],
+ "P_overplacement": [
+  "Compared with the average person of your age, how would you rate your ability to drive safely?",
+  "Compared with the average person of your age, how would you rate your general intelligence?",
+  "Compared with the average person of your age, how would you rate your ability to get along with other people?"
+ ],
+ "P_religious_nonattendance": [
+  "How often do you attend religious services?",
+  "Religion is an important part of my daily life."
+ ],
+ "W_vaccine_acceptance": [
+  "I would get a seasonal flu vaccine this year if it were offered to me for free.",
+  "I would accept an updated COVID-19 booster shot if my doctor recommended it.",
+  "Vaccines approved by public health authorities are safe and effective."
+ ],
+ "W_myside_german": [
+  "The United States government has determined that a sport-utility vehicle made by a German company has an accident rate roughly eight times higher than the average American vehicle, and is considering banning it from American roads. Should the United States be allowed to ban this German-made vehicle?"
+ ],
+ "P_RFS": [
+  "God has given humanity one complete and unerring guide to right belief and right living.",
+  "The core teachings of the one true faith must never be adjusted to suit modern opinion.",
+  "Anyone who sincerely follows the one true religion is protected from serious spiritual error.",
+  "There is a real struggle in the world between the followers of God and the forces of evil.",
+  "Sacred scripture, properly understood, contains no factual mistakes of any kind.",
+  "In the end, salvation is open only to those who accept the one true faith.",
+  "No single religion can claim to hold the whole truth about God.",
+  "Sacred texts are human documents and should be read as products of their own time.",
+  "Religious teaching should be revised when it conflicts with well-established knowledge.",
+  "Good and evil are matters of human choice, not a battle between cosmic forces.",
+  "People of many different faiths, and of no faith at all, can lead equally moral lives.",
+  "Questioning and doubt make a person's faith stronger rather than weaker."
+ ],
+ "P_agreeableness": [
+  "I feel sympathy for people who are going through a hard time.",
+  "I give people the benefit of the doubt.",
+  "I stay courteous with others even when I disagree with them.",
+  "I am quick to point out other people's shortcomings.",
+  "I can be indifferent to how other people feel.",
+  "I assume most people will try to take advantage of me if they can."
+ ],
+ "P_neuroticism": [
+  "I worry about things that may never actually happen.",
+  "My mood can shift quickly for no clear reason.",
+  "I get discouraged easily when something goes wrong.",
+  "I often feel tense or on edge.",
+  "I stay calm when I am under pressure.",
+  "I rarely feel sad or low."
+ ],
+ "P_maximization": [
+  "When I shop, I want to see every option before I decide.",
+  "Even when I am fairly happy with a choice, I keep an eye out for something better.",
+  "Picking a gift for a friend is hard for me.",
+  "Choosing what to watch or listen to is difficult because there are so many options.",
+  "I often imagine a version of my life that is much better than the one I have.",
+  "I am content to take the first option that meets my needs."
+ ],
+ "P_fluid": [
+  "What number comes next in the series 3, 6, 11, 18, 27, ___ ?",
+  "What number comes next in the series 2, 3, 5, 8, 13, 21, ___ ?",
+  "What number comes next in the series 96, 48, 24, 12, ___ ?",
+  "What number comes next in the series 5, 6, 9, 14, 21, ___ ?",
+  "What number comes next in the series 4, 7, 13, 25, 49, ___ ?",
+  "What number comes next in the series 1, 2, 6, 24, 120, ___ ?"
+ ],
+ "P_finliteracy": [
+  "Suppose you put $200 in a savings account that pays 2% interest a year. You make no deposits or withdrawals. After 5 years, how much would be in the account?",
+  "Suppose your savings account pays 1% interest a year while prices rise by 2% a year. After one year, how much could you buy with the money in that account?",
+  "Putting your money into the shares of one single company is usually safer than putting it into a stock mutual fund that holds many companies."
+ ],
+ "P_wason": [
+  "Four cards lie on a table. Each has a letter on one face and a number on the other. The faces you can see read: A, K, 4, 7. Someone claims: \"If a card has a vowel on its letter face, then it has an even number on its number face.\" Which cards must you turn over -- and only those -- to find out whether the claim is false?",
+  "A shop's catalogue makes this claim: \"If a book is a hardcover, then it costs more than $30.\" Four books sit on a shelf. For two of them you can see only the binding (one hardcover, one paperback); for the other two you can see only the price ($45 and $19). Which books must you check -- and only those -- to find out whether the claim is false?"
+ ],
+ "P_dictator_sender": [
+  "You have been given $10. You are paired at random with another participant who has been given nothing and who will never learn who you are. You decide how much of the $10, if any, to pass to that person; you keep the rest. Your decision is final and anonymous. How many dollars do you pass to the other person?"
+ ],
+ "W_base_rate_30eng": [
+  "A panel of psychologists interviewed 100 professionals: 30 of them are engineers and 70 are lawyers. From those interviews they wrote short personality sketches. One sketch, drawn at random, reads: \"Jack is 45, married, with four children. He is conservative, careful and ambitious. He shows no interest in political or social issues and spends his free time on home carpentry, sailing and mathematical puzzles.\" What is the probability, in percent, that Jack is one of the 30 engineers?"
+ ],
+ "W_less_is_more_A": [
+  "You are browsing a clearance table at a home-goods store and find one dinnerware set, sold as-is. The set contains 24 pieces: 8 dinner plates, 8 soup bowls and 8 dessert plates. Every piece is intact. The pattern and quality are ordinary. What is the most you would be willing to pay for this set?"
+ ],
+ "P_mentalaccounting": [
+  "You bought a $60 ticket to a concert weeks ago. At the door you discover the ticket is gone and it cannot be replaced or refunded. Identical seats are still on sale at the box office for $60, and you can afford it. Would you buy another ticket and see the concert?",
+  "A relative gives you $500 and says it is \"for a trip somewhere nice.\" You put it in your account. Your car then needs a $500 repair that you would otherwise have to put on a credit card. Spending that particular $500 on the car repair instead of on a trip would feel wrong to me.",
+  "You paid $80 in advance for a full-day ski pass. The morning arrives cold and wet, the runs are icy, and you know you would not enjoy the day; the $80 is not refundable and you have no other plans. Would you go skiing anyway?"
+ ],
+ "P_age_bracket": [
+  "Which age group are you in?"
+ ],
+ "P_education": [
+  "What is the highest level of schooling you have completed?"
+ ],
+ "P_income": [
+  "Which bracket best describes your total household income last year, before taxes?"
+ ],
+ "P_female": [
+  "You are a woman.",
+  "You are a man.",
+  "Your gender: woman, man, or non-binary person."
+ ]
+}

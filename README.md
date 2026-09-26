@@ -17,6 +17,7 @@ redistributed here; they are available from the authors on request.
 | Per-effect bare effect sizes | `analysis_tables/P2_bare_g0.csv`, `P2_bare_g1.csv`, `P2_bare_g2.csv`, `P2_bare_old19.csv` |
 | Analysis units for the estimation model | `analysis_tables/P2_analysis_units.csv` |
 | Design power simulation and scaling curve (Appendix on precision) | `analysis_tables/power_simulation.csv`, `analysis_tables/power_design_curve.csv`, `code/power_simulation.py` |
+| Positive controls, transcription cross-pairing (three families), direction subset, structure missingness bounds | `code/positive_controls_and_checks.py`, `analysis_tables/positive_controls_and_checks.json`, `analysis_tables/PC_*_cells_*.csv`, `protocols/positive_control_findings.json` |
 | Print-size main-text panels (Figures 2 and 4) | `code/make_main_figures.py` |
 | Scale, transcription, paradigm, interaction, neutral-prompt, conventional-validation, item-similarity checks | `code/robustness_checks.py`, `analysis_tables/robustness_checks.json` |
 | NumPyro implementation of the main model | `code/nm_models.py` |

@@ -1,4 +1,4 @@
-# Does the Simulated Participant Read the Literature?
+# What do llm-simulated participants track?
 
 Code, protocols, and derived data for the paper. Raw model responses are not
 redistributed here; they are available from the authors on request.

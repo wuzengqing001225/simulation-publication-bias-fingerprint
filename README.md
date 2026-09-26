@@ -17,6 +17,12 @@ redistributed here; they are available from the authors on request.
 | Per-effect bare effect sizes | `analysis_tables/P2_bare_g0.csv`, `P2_bare_g1.csv`, `P2_bare_g2.csv`, `P2_bare_old19.csv` |
 | Analysis units for the estimation model | `analysis_tables/P2_analysis_units.csv` |
 | Design power simulation and scaling curve (Appendix on precision) | `analysis_tables/power_simulation.csv`, `analysis_tables/power_design_curve.csv`, `code/power_simulation.py` |
+| Print-size main-text panels (Figures 2 and 4) | `code/make_main_figures.py` |
+| Scale, transcription, paradigm, interaction, neutral-prompt, conventional-validation, item-similarity checks | `code/robustness_checks.py`, `analysis_tables/robustness_checks.json` |
+| NumPyro implementation of the main model | `code/nm_models.py` |
+| Hierarchical prior, simulation-based calibration, Bayesian power | `code/calibration_and_power.py`, `analysis_tables/hierarchical_prior_posteriors.json`, `sbc_ranks.csv`, `power_bayes.csv` |
+| Neutral-system-prompt rerun, scored cells | `analysis_tables/NT_*_cells_*.csv` |
+| Construct item texts and embeddings | `protocols/construct_item_texts.json`, `code/embed_constructs.py`, `analysis_tables/construct_embeddings.json` |
 | Posterior draws of the main measurement-error model | `analysis_tables/P2_main_model_idata.nc` |
 | Narrative labels, all four rounds and the consensus | `analysis_tables/narrative_final_fourround.csv` |
 | Refusal condition-type mapping / per-cell refusal rates | `analysis_tables/S1_condition_map.csv`, `analysis_tables/S1_refusal_units.csv` |

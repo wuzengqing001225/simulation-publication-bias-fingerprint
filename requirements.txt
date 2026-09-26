@@ -6,3 +6,7 @@ scipy==1.17.1
 pytensor==2.38.3
 statsmodels>=0.14
 openai>=1.30
+numpyro>=0.15
+jax>=0.4
+scikit-learn>=1.3
+sentence-transformers>=2.6  # only for code/embed_constructs.py
